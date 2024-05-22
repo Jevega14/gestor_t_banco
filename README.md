@@ -110,23 +110,11 @@ npm run serve
 Uso
 Pantalla de Registro:
 
-Los clientes pueden registrarse con su cédula y tipo de turno. Se genera un código de turno que se muestra al cliente.
-Pantalla de Gestión de Turnos:
 
-Los asesores pueden ver la cola de clientes en espera. Pueden llamar a los turnos, que se muestran en la pantalla de espera.
-Pantalla de Espera:
-
-Muestra los últimos cinco turnos llamados y el módulo en el que serán atendidos.
-Contribución
-Hacer un fork del proyecto.
-Crear una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Realizar los cambios necesarios y hacer commits (git commit -m 'Añadir nueva funcionalidad').
-Hacer push a la rama (git push origin feature/nueva-funcionalidad).
-Abrir un Pull Request.
-Licencia
+## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
 
 # Contacto
-Jessica Vega - jessica@example.com
+Jessica Vega - jevega1402qgmail.com
 
 Repositorio del Proyecto: https://github.com/Jevega14/gestor_t_banco
